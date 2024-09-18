@@ -1,8 +1,5 @@
 import random
 
-# create a program that generates a random sentence every time you run it
-# pattern: adjective noun verb adverb.
-
 adjectives = [
     "Happy", "Sad", "Angry", "Excited", "Beautiful", "Ugly", "Bright", "Dark",
     "Large", "Small", "Quick", "Slow", "Soft", "Hard", "Hot", "Cold",
@@ -27,3 +24,6 @@ adverbs = [
     'excitedly', 'beautifully', 'badly', 'brightly', 'darkly', 'largely',
     'slightly', 'softly', 'hardly', 'hotly', 'coldly', 'friendly', 'meanly'
 ]
+
+# TODO: create a program that generates a random sentence every time you run it
+# pattern: adjective noun verb adverb.
