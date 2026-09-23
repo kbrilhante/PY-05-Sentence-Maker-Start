@@ -1,28 +1,28 @@
 import random
 
 adjectives = [
-    "Happy", "Sad", "Angry", "Excited", "Beautiful", "Ugly", "Bright", "Dark",
-    "Large", "Small", "Quick", "Slow", "Soft", "Hard", "Hot", "Cold",
-    "Friendly", "Mean", "Brave", "Energetic"
+    "happy", "sad", "angry", "excited", "beautiful", "ugly", "bright", "dark",
+    "large", "small", "quick", "slow", "soft", "hard", "hot", "cold",
+    "friendly", "mean", "brave", "energetic"
 ]
 
 nouns = [
-    'elephants', 'tigers', 'lions', 'giraffes', 'zebras', 'kangaroos',
-    'pandas', 'dolphins', 'eagles', 'penguins', 'koalas', 'gorillas',
-    'leopards', 'wolfs', 'foxes', 'whales', 'sharks', 'crocodiles', 'hippos',
-    'rhinos'
+    "elephants", "tigers", "lions", "giraffes", "zebras", "kangaroos",
+    "pandas", "dolphins", "eagles", "penguins", "koalas", "gorillas",
+    "leopards", "wolves", "foxes", "whales", "sharks", "crocodiles", "hippos",
+    "rhinos"
 ]
 
 verbs = [
-    'run', 'jump', 'swim', 'eat', 'drink', 'sleep', 'read', 'write', 'sing',
-    'dance', 'talk', 'walk', 'laugh', 'cry', 'drive', 'climb', 'play',
-    'listen', 'watch', 'work'
+    "run", "jump", "swim", "eat", "drink", "sleep", "read", "write", "sing",
+    "dance", "talk", "walk", "laugh", "cry", "drive", "climb", "play",
+    "listen", "watch", "work"
 ]
 
 adverbs = [
-    'quickly', 'slowly', 'quietly', 'loudly', 'happily', 'sadly', 'angrily',
-    'excitedly', 'beautifully', 'badly', 'brightly', 'darkly', 'largely',
-    'slightly', 'softly', 'hardly', 'hotly', 'coldly', 'friendly', 'meanly'
+    "quickly", "slowly", "quietly", "loudly", "happily", "sadly", "angrily",
+    "excitedly", "beautifully", "badly", "brightly", "darkly", "largely",
+    "slightly", "softly", "hardly", "hotly", "coldly", "friendly", "meanly"
 ]
 
 # TODO: create a program that generates a random sentence every time you run it
